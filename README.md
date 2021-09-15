@@ -1,2 +1,11 @@
 # Test
-<h3> This is just a test. </h3>
+
+<style>
+	.TestInfo { color: red;
+		    font-size: 50px;
+} 
+	
+
+</style> 
+
+<div class="TestInfo"> This is just a test. </div>
